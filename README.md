@@ -1,1 +1,1 @@
-# NeurIPS-2020
+# NeurIPS 2020 Reading Group
