@@ -11,3 +11,9 @@
 - Laskin, Michael, Scott Emmons, Ajay Jain, Thanard Kurutach, Pieter Abbeel, and Deepak Pathak. "Sparse graphical memory for robust planning." arXiv preprint arXiv:2003.06417 (2020). [link](https://arxiv.org/abs/2003.06417)
 - Anderson, Greg, Abhinav Verma, Isil Dillig, and Swarat Chaudhuri. "Neurosymbolic Reinforcement Learning with Formally Verified Exploration." arXiv preprint arXiv:2009.12612 (2020). [link](https://arxiv.org/abs/2009.12612)
 - Tasse, Geraud Nangue, Steven James, and Benjamin Rosman. "A Boolean Task Algebra for Reinforcement Learning." arXiv preprint arXiv:2001.01394 (2020). [link](https://arxiv.org/abs/2001.01394)
+
+---
+## Recordings
+| Title | Recording |
+| ----- | --------- |
+| Structural Abstractions for Reinforcement Learning | [https://www.youtube.com/watch?v=fy7Dp1c2hUA](https://www.youtube.com/watch?v=fy7Dp1c2hUA) |
