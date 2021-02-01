@@ -12,7 +12,7 @@
 - Anderson, Greg, Abhinav Verma, Isil Dillig, and Swarat Chaudhuri. "Neurosymbolic Reinforcement Learning with Formally Verified Exploration." arXiv preprint arXiv:2009.12612 (2020). [link](https://arxiv.org/abs/2009.12612)
 - Tasse, Geraud Nangue, Steven James, and Benjamin Rosman. "A Boolean Task Algebra for Reinforcement Learning." arXiv preprint arXiv:2001.01394 (2020). [link](https://arxiv.org/abs/2001.01394)
 
-## [](./Self-Supervised Learning/NeurIPS-2020 bf388a517513448fa51e5e4daec8f650.md)
+## [Self-Supervised Learning](./Self-Supervised Learning/NeurIPS-2020 bf388a517513448fa51e5e4daec8f650.md)
 - Qizhe Xie and Minh-Thang Luong and Eduard Hovy and Quoc V. Le "Self-training with Noisy Student improves ImageNet classification" [link](https://arxiv.org/abs/1911.04252)
 - Jean-Bastien Grill, Florian Strub, Florent Altché, Corentin Tallec, Pierre H. Richemond, Elena Buchatskaya, Carl Doersch, Bernardo Avila Pires, Zhaohan Daniel Guo, Mohammad Gheshlaghi Azar, Bilal Piot, Koray Kavukcuoglu, Rémi Munos, Michal Valko "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning" [link](https://arxiv.org/abs/2006.07733#:~:text=Bootstrap%20your%20own%20latent%3A%20A%20new%20approach%20to%20self%2Dsupervised%20Learning,-Jean%2DBastien%20Grill&text=We%20introduce%20Bootstrap%20Your%20Own,and%20learn%20from%20each%20other)
 - Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, Geoffrey Hinton. "Big Self-Supervised Models are Strong Semi-Supervised Learners" [link](https://arxiv.org/abs/2006.10029)
