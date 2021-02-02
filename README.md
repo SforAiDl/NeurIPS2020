@@ -23,4 +23,5 @@
 ## Recordings
 | Title | Recording |
 | ----- | --------- |
+| Recent Advances in Self-Supervised Learning | [https://youtu.be/LO1dKIr-85s](https://youtu.be/LO1dKIr-85s) |
 | Structural Abstractions for Reinforcement Learning | [https://www.youtube.com/watch?v=fy7Dp1c2hUA](https://www.youtube.com/watch?v=fy7Dp1c2hUA) |
