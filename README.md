@@ -19,6 +19,10 @@
 - Barret Zoph, Golnaz Ghiasi, Tsung-Yi Lin, Yin Cui, Hanxiao Liu, Ekin D. Cubuk, Quoc V. Le "Rethinking Pre-training and Self-training" [link](https://arxiv.org/abs/2006.06882)
 - A. Emin Orhan, Vaibhav V. Gupta, Brenden M. Lake "Self-supervised learning through the eyes of a child" [link](https://arxiv.org/abs/2007.16189)
 
+## [Social Learning](./Social Learning/Social Learning c56c5f3585014620a0472c8724570b59.md)
+- Kamal Ndousse, Douglas Eck, Sergey Levine, and Natasha Jaques. "Learning Social Learning." arXiv preprint arXiv:2010.00581 (2020). [link](https://arxiv.org/abs/2010.00581)
+- Rose E. Wang, Sarah A. Wu, James A. Evans, Joshua B. Tenenbaum, David C. Parkes, and Max Kleiman-Weiner. "Too many cooks: Bayesian inference for coordinating multi-agent collaboration." arXiv preprint 	arXiv:2003.11778 (2020). [link](https://arxiv.org/abs/2003.11778)
+
 ---
 ## Recordings
 | Title | Recording |
